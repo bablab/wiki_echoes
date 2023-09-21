@@ -6,8 +6,12 @@ background
 study-details
 study-design
 questionnaires
+study-contributions
 funding
 data-collection
 recruitment
 redcap
 data-storage
+data-analysis
+analysis-plans
+analysis-scripts

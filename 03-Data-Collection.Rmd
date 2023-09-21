@@ -2,6 +2,12 @@
 
 ## Recruitment
 
+Recruitment was completed through Prolific. 
+
 ## REDcap
 
+All data collection was completed on REDcap -- participants were redirected to the study's REDcap site. 
+
 ## Data Storage
+
+Raw questionnaire data is stored on REDcap and on BAB Lab Box. 

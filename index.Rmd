@@ -1,7 +1,7 @@
 --- 
-title: "ECHOES"
-author: "Fran Querdasi, Bridget Callaghan"
-date: "`r Sys.Date()`"
+title: "Experiences, Coping, and Health Outcomes Study (ECHOES)"
+author: "By: Francesca (Fran) R. Querdasi __(FQ)__, Genesis D. Flores __(GF)__, & Bridget L. Callaghan __(BC)__"
+date: "Last Updated on: `r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -13,7 +13,7 @@ description: "Brief description"
 ---
 
 # Introduction
-
+This wiki contains information for the Experiences, Coping, and Health Outcomes Study (ECHOES)
 ```{r include=FALSE}
 # automatically create a bib database for R packages
 knitr::write_bib(c(

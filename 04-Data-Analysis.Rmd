@@ -1,0 +1,13 @@
+# Data Analysis
+
+## Analysis Plans
+
+__Dimensions of Adversity & Alexithymia (Aim 1.1, 1.2)__: FQ and GF
+
+We used CFA to test the a-priori specified 3-dimensional model of adversity, after assigning each adversity questionnaire item to a dimension according to theory, and removing duplicate items. Since fit to the data was not adequate (LIST CUTOFFS HERE), we performed EFA using promax rotation. We selected 3 factors for the EFA based on the Silouette and Parallel Plots methods. We then performed CFA on the model selected by EFA. 
+
+After obtaining factor scores for each participant from the CFA, we then used an OLS regression model to test associations of each factor (controlling of other factors, age, and sex) with alexithymia. 
+
+## Analysis Scripts
+
+Analysis scripts can be found at: [insert github repo link once public]

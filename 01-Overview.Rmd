@@ -2,6 +2,20 @@
 
 ## Summary
 
+ECHOES is a fully online study focusing on young adults' (ages 18-25) adversity experiences (early life and recent), current physical and mental health, and psychosocial risk/protective factors (e.g., coping style, alexithymia, social support).
+
 ## Aims
 
+The main project has the following aims:
+
+**Aim 1**: Identify how adversity characteristics (type, timing) are related to psychosocial risk/protective factors and health in young adulthood.
+
+* **Aim 1.1**: Test a 3-dimensional model of adversity based on recent theory (thread, deprivation, unpredictabiltiy), and, if this theorized model does not fit the data well, identify the best-fitting adversity dimensional model in this sample. 
+
+* **Aim 1.2**: Test how adversity dimensions are related to alexithymia. 
+
+**Aim 2**: Characterize profiles/groups of young adults according to their experieces, psychosocial risk/protective factors, and health. 
+
 ## Background
+
+WILL ADD MORE HERE
